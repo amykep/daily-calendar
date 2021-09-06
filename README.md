@@ -8,4 +8,5 @@
 ### Link to the deployed application: https://amykep.github.io/daily-calendar/
 
 ### screenshot of the Daily Calendar:
+<img src="./assets/images/daily-calendar.png">
 
